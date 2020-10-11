@@ -1,0 +1,8 @@
+Three observable trends based on the Heroes of Pymoli data
+
+1. A player is more likely to make purchases if they are between the ages of 20 and 24. The likelihood of purchases steadily decreases with each of our age ranges as the player's age range either increases or decreases from the 20 to 24 age range.
+
+2. A player who identifies as male is far more likely to make a purchase than a player who has idendtified as female or other/non-disclosed with 84% of the players in the purchase dataset identifying as male.
+
+3. The average total purchase per person is likely to be slightly higher for a person between the ages of 35 and 39.
+
