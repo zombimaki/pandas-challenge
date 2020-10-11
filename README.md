@@ -3,35 +3,47 @@ Pandas Homework - Pandas, Pandas, Pandas
 
 Heroes of Pymoli
 
-The Heroes of Pymoli jupyter notebook uses Pandas to observee the following:
+The Heroes of Pymoli jupyter notebook uses Pandas to observe the following:
 
 1. The total number of players in the purchase data dataset.
 2. A high-level purchasing analysis which displays:
+
 	a. total count of unique items
 	b. average price
 	c. total number of purchases
 	d. total revenue
+
 3. The total count and percentage of players by gender.
 4. Purchasing analysis by gender which displays:
+
 	a. purchase count
 	b. average purchase price 
 	c. total purchase value
 	d. average total purchase per person
+
 5. The total count and percentage of players by age range.
+
 6. Purchasing analysis by age range which displays:
+
 	a. purchase count
 	b. average purchase price 
 	c. total purchase value
 	d. average total purchase per person
+
 7. Purchasing analysis for the top 5 spenders which displays:
+
 	a. purchase count
 	b. average purchase price 
 	c. total purchase value
+
 8. Purchasing analysis for the top 5 most popular items which displays:
+
 	a. purchase count	
 	b. item price
 	c. total purchase value
+
 9. Purchasing analysis for the top 5 most profitable items which displays:
+
 	a. purchase count	
 	b. item price
 	c. total purchase value
